@@ -1,0 +1,101 @@
+body {
+    margin:auto;
+    padding:10px;
+    background-color:#CED6F0;
+    color:051752;
+    
+}
+
+header, main, nav, footer{
+    text-align:center;
+}
+h1{
+    color:#133A59;
+    font-family: 'Anton';
+    font-size:4em;
+    margin-bottom: 0px;
+}
+
+nav a{
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.8em;
+    text-decoration:none;
+    color:#3D400B;
+}
+
+nav a:hover{
+    border-bottom:2px blue solid;
+    font-size:2em;
+    transition: .9s;
+}
+
+#me{
+    float:left;
+}
+
+#welcomeText {
+  text-align: left;
+}
+
+img {
+    float:center;
+}
+
+table {
+    margin: 0px auto;
+    padding:10px;
+    font-size: 1.3em;
+    
+}
+td {
+    padding-right:  10px;
+    font-size: 1.3em;
+}
+td strong {
+    color:white;
+} 
+#table-header {
+    background-color: #1A3347;
+    color: white;
+}
+.table-row{
+    background-color: #7BA6C9;
+}
+ul{
+    text-align:left;
+    padding-left:200px;
+}
+.hobby{
+    color:#570A25;
+    font-size: 1em;
+    font-style: !important
+}
+.content{
+    margin: 0px auto;
+    padding:10px;
+}
+footer {
+    clear:left;
+    text-align: center;
+}
+
+strong {
+   color:#06133D; 
+}
+#foot{
+    font-size: 14px;
+    color:#2E2C66;
+    clear:left;
+} 
+small{
+    font-variant:small-caps;
+}
+
+
+
+
+
+   
+
+

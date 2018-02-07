@@ -1,0 +1,34 @@
+body {
+    margin:auto;
+    padding: 10px;
+    
+    background-color:#E9F0E6;
+    color:gray;
+    
+}
+
+header, main, nav, footer{
+    text-align:center;
+}
+
+
+
+figure,div{
+    float:left;
+}
+
+
+figure img{
+    float:right;
+    margin: 10px;
+}
+footer {
+    clear:left;
+}
+
+.helpImg{
+    
+    position: static;
+    float: right;
+    
+}
