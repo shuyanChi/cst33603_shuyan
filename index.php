@@ -11,6 +11,9 @@
             </ul>
             
         </div>
+          <ul>
+                <li><a href="/lab/lab1">Lab 1</a></li>
+            </ul>
         <div>
             <h3>Labs</h3>
         </div>
