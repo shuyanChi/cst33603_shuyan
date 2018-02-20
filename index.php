@@ -16,6 +16,9 @@
           <ul>
                 <li><a href="/lab/lab1">Lab 1</a></li>
             </ul>
+             <ul>
+                <li><a href="/lab/777">777</a></li>
+            </ul>
         </div>
 
     </body>
