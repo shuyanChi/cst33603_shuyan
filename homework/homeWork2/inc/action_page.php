@@ -41,6 +41,9 @@ if(!empty($_POST['name'] && $_POST['password' ] && $_POST['email'] && $_POST['we
     echo "This hex is the color you like: " .$color;
     echo "<br>";
 }
+if(empty($_POST['name'] && $_POST['password' ] && $_POST['email'] && $_POST['website'] && $_POST['comment'] && $_POST['gender'])){
+  echo "can't leave any field blank!";
+}
 
 ?>
 
