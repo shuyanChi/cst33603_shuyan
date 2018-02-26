@@ -1,0 +1,10 @@
+body {
+    margin:auto;
+    padding:20px;
+    color:#051752;
+}
+
+p{
+    border-width: 5px;
+    font-size: 15px;
+}
