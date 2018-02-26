@@ -9,6 +9,9 @@
              <ul>
                 <li><a href="/homework/homeWork1"> homeWork 1</a></li>
             </ul>
+              <ul>
+                <li><a href="/homework/homeWork2"> homeWork 2</a></li>
+            </ul>
             
         </div>
         <div>
@@ -19,7 +22,13 @@
              <ul>
                 <li><a href="/lab/777">777</a></li>
             </ul>
+             <ul>
+                <li><a href="/lab/lab3">lab 3</a></li>
+            </ul>
         </div>
+        
+        
+        
 
     </body>
 </html>
