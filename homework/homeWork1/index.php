@@ -52,11 +52,10 @@
         <div id = "foot" >
         <footer>
            <hr>
-           <img src = "img/question_mark_bubble.jpg" width ="150" height = "70" alt ="">
+           <img src = "img/inf.jpg" width ="150" height = "70" alt ="">
            <br>
            <p>CST336-03_Sp18:Internet Programming. 2018 &copy; Shuyan Chi <br>
-           <strong>Disclaimer:</strong>Share idears.<br>
-           It is unsed for academic purposes only.</p>
+           <strong>Important:</strong>Share information.<br>
            <address>
                CSUMB SEASIDE<br >
                EMAIL schi@csumb.edu<br >
