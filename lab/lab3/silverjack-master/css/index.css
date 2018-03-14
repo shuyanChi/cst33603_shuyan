@@ -1,0 +1,57 @@
+.card {
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+}
+
+.lost {
+    background: #ffcccc;
+}
+
+.player img {
+    width: 100px;
+    height: auto;
+    overflow: hidden;
+}
+
+.active {
+    background: #CCCCCC;
+}
+
+.player-score {
+    background: #002366;
+    color: #FFFFFF;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+.type-0 {
+    width:20px; 
+    height:20px;
+    background-image:url(https://cdn3.iconfinder.com/data/icons/basic-mobile-part-2/512/clubs-256.png);
+    background-size: 20px;
+}
+
+.type-1 {
+    width:20px; 
+    height:20px;
+    background-image:url(https://cdn4.iconfinder.com/data/icons/pretty-office-part-7-simple-style/256/Diamond.png);
+    background-size: 20px;
+}
+
+.type-2 {
+    width:20px; 
+    height:20px;
+    background-image:url(https://cdn1.iconfinder.com/data/icons/sin-city-memories/128/suit-heart-256.png);
+    background-size: 20px;
+
+}
+
+.type-3 {
+    width:20px; 
+    height:20px;
+    background-image:url(https://cdn4.iconfinder.com/data/icons/pretty-office-part-7-simple-style/256/Spades.png);
+    background-size: 20px;
+
+}

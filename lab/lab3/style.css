@@ -1,0 +1,39 @@
+
+
+.game{
+      text-align: center;
+    background-color: #708090;
+    position:relative;
+    margin:auto;
+    color : white ;
+}
+
+
+.div1{
+        
+        width:600px;
+        height:500px;
+        position:relative;
+        padding-left: 10px;
+        margin:auto;
+        background-color: #AAAAAA;
+        padding : auto;
+        
+}    
+
+
+.div2{
+    text-align: center;
+    background-color: #2F4F4F;
+    position:relative;
+    margin:auto;
+    color : white ;
+    
+}
+
+
+body{
+    background-color: #AAAAAA;
+    border: 3px solid #73AD21;
+}
+
