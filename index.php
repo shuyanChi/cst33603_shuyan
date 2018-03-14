@@ -23,7 +23,10 @@
                 <li><a href="/lab/777">777</a></li>
             </ul>
              <ul>
-                <li><a href="/lab/Lab3">lab 3</a></li>
+                <li><a href="/lab/Lab3/Silverjack.php">lab 3</a></li>
+            </ul>
+            <ul>
+                <li><a href="/lab/lab4">lab 4</a></li>
             </ul>
         </div>
         
