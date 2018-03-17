@@ -1,0 +1,3 @@
+
+The HTML code of the form looks like this:
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">

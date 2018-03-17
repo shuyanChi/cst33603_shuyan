@@ -4,5 +4,5 @@
     // $sql = " SELECT*
     //$stmt = $dbConn -> prepare ($sql);
    
-    echo "print something!";
-?>
+    echo "or";
+?>  
