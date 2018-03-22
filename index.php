@@ -33,7 +33,7 @@
         <div>
             <h3>TeamProject</h3>
             <ul>
-                <li><a href="/TeamProject/project1">project1</li>
+                <li><a href="/TeamProject/TeamProject_MySQL">TeamProject_MySQL</li>
             </ul>
         </div>
         
