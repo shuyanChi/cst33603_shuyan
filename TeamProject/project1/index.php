@@ -1,6 +1,6 @@
 <?php
     include '../../DBconnection.php';
-    $dbConn = DBConnection("test_database");
+    $dbConn = DBConnection("movie");
 ?>  
 
 <?php
@@ -10,9 +10,5 @@ $filterText = '';
 if ('POST' === $_SERVER['REQUEST_METHOD']) {
     $filterText = $_POST['filterText'];
 }
-
-// Compose the SQL statement
-   $sql = "SELECT * FROM `device`";
-   
-    //"SELECT  ch.`charge_id`,
-
+$totalRows = $dbConn->query("SELECT COUNT(*) FROM movies")->fetchColumn();
+echo  $totalRows . "<br><br>";
