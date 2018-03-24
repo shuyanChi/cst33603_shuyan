@@ -30,10 +30,15 @@
             </ul>
         </div>
         
-        <div>
+        <!--<div>
             <h3>TeamProject</h3>
             <ul>
-                <li><a href="/TeamProject/TeamProject_MySQL">TeamProject_MySQL</li>
+                <li><a href="/TeamProject/TeamProject_MySQL">TeamProject_MySQL</a></li>
+            </ul>
+        </div> -->
+          <div>
+             <ul>
+            <li> <a href = "/TeamProject_MySQL"> TeamProject_MySQL</a> </li>
             </ul>
         </div>
         
